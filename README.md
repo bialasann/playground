@@ -1,4 +1,4 @@
-# Playground PP3
+# Playground - merged
 
 A place to play with `git`.
 
